@@ -3,17 +3,15 @@ import os
 import re
 import sys
 
-print ('Number of arguments:', len(sys.argv), 'arguments.')
 
+#Open text files
 f = open(sys.argv[1], 'r')
 f_out = open(sys.argv[2], 'w')
 f_contents = f.readline()  # reads single line
 
-i = 1
+
 print("List of workflows: ")
-
 arr = []
-
 for line in f:
     if re.match("Injected workflow:", line):
         # print(line.split("Injected workflow: ")[1], end="")
@@ -28,7 +26,6 @@ for x in range(0, n):
 
 #Write to file
 for i in range(0, len(arr2)):
-    print(arr2[i], end="")
     f_out.write(arr2[i])
 
 
