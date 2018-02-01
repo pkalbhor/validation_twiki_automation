@@ -1,7 +1,10 @@
-	Text parsing: Code for updating validation report to twiki page.
-> To run code, follow these instructions
-* .py file takes two arguments. 
-* First one is input text file
-* Second one is output file.
-	Example: python3 python_parsing.py input_file.txt output_file.txt
+# Text parsing: Code for updating validation report to twiki page.
+
+#### Instructions
+* File named _inputs.txt_ stores location of input files. You can put location of files from which you wand to extract text. Put each file in next line.
+
+ How to run a code?
+* Just run as normal python code.
+
+>  _python python_parsing.py_
 
