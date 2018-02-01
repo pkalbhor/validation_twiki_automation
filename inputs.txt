@@ -1,0 +1,2 @@
+/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week49_2017_ReReco_RunF/wmcontrol/wmc_PR.log
+/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week49_2017_ReReco_RunF/wmcontrol/cond_PR.log
