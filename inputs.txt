@@ -1,2 +1,47 @@
-/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week49_2017_ReReco_RunF/wmcontrol/wmc_PR.log
-/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week49_2017_ReReco_RunF/wmcontrol/cond_PR.log
+# Put list file locations here
+# NOTE: use '#' for comments. Whichever line starts with '#' is ignored.
+#	Also blank lines are ignored.
+# 	You can keep lines blank in between, but dont comment at the end of file path.
+
+# WEEK_06_2018
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week06_2018_ReReco_EOY17/wmcontrol/cond_PR_RunG.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week06_2018_ReReco_EOY17/wmcontrol/wmc_PR_RunG.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week06_2018_ReReco_EOY17_ALCARECO/wmcontrol/cond_PR_RunG.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week06_2018_ReReco_EOY17_ALCARECO/wmcontrol/wmc_PR_RunG.log
+
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week06_2018_ReReco_EOY17/wmcontrol/cond_PR_RunH.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week06_2018_ReReco_EOY17/wmcontrol/wmc_PR_RunH.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week06_2018_ReReco_EOY17_ALCARECO/wmcontrol/wmc_PR_RunH.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week06_2018_ReReco_EOY17_ALCARECO/wmcontrol/cond_PR_RunH.log
+
+# Resubmitted for new GT
+/afs/cern.ch/work/p/pkalbhor/public/2018AlCaVals/week06_2018_ReReco_EOY17_ALCARECO/wmcontrol/cond_PR.log
+/afs/cern.ch/work/p/pkalbhor/public/2018AlCaVals/week06_2018_ReReco_EOY17_ALCARECO/wmcontrol/wmc_PR.log
+/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week09_2018_ReReco_EOY17_RunH2/wmcontrol/cond_PR.log
+/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week09_2018_ReReco_EOY17_RunH2/wmcontrol/wmc_PR.log
+
+
+# WEEK_49_2017
+#/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week49_2017_ReReco_RunF/wmcontrol/cond_PR.log
+#/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week49_2017_ReReco_RunF/wmcontrol/wmc_PR.log
+
+
+# WEEK_03_2018
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week03_2018_SiStripG2/Tag1/wmcontrol/cond_HLT.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week03_2018_SiStripG2/Tag1/wmcontrol/wmc_HLT.log
+
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week03_2018_SiStripG2/Tag10/wmcontrol/cond_HLT.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week03_2018_SiStripG2/Tag10/wmcontrol/wmc_HLT.log
+
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week03_2018_SiStripG2/Tag11/wmcontrol/cond_HLT.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week03_2018_SiStripG2/Tag11/wmcontrol/wmc_HLT.log
+
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week03_2018_SiStripG2/Tag12/wmcontrol/cond_HLT.log
+#/afs/cern.ch/work/r/rverma/public/2018AlCaVals/week03_2018_SiStripG2/Tag12/wmcontrol/wmc_HLT.log
+
+# WEEK45_2017
+#/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week45_2017_SiStripG2/wmcontrol/wmc_HLT.log
+#/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week45_2017_SiStripG2/wmcontrol/cond_HLT.log
+#/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week45_2017_SiStripG2/wmcontrol/wmc_PR.log
+#/afs/cern.ch/work/r/rverma/public/2017AlCaVals/week45_2017_SiStripG2/wmcontrol/cond_PR.log
+
